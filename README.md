@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/610216571/2bc0bed2-746e-43d1-97e1-391d0778b43a)
 <h1 align="center">Hi 👋, I'm Shiven Singh</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/106600/screenshots/2156764/firefly2.gif">
+<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/106600/screenshots/2156764/firefly2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitshiven&label=Profile%20views&color=0e75b6&style=flat" alt="gitshiven" /> </p>
 
