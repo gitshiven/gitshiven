@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Classification model to predict the sentiment either(1 or 0) based on Amazon Alexa reviews**
 
-- 🌱 I’m currently learning **ML, DSA, Full Stack**
+- 🌱 **ML, DSA, Full Stack**
 
 - 📫 How to reach me **ss.shiven44@gmail.com**
 
-- ⚡ Fun fact **I am the best FIFA 18/19/22 1v1 player**
+- ⚡ Fun fact **the best FIFA 18/19/22 1v1 player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
