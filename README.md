@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ss.shiven44@gmail.com**
 
-- ⚡ Fun fact **the best FIFA 18/19/22 1v1 player**
+- ⚡ Fun fact **3000 hours+ on FIFA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
