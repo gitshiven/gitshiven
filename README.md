@@ -1,6 +1,6 @@
 <img align="centre" width="1000" alt="Coder" src="https://cdn.dribbble.com/users/3016466/screenshots/6812171/on-off-gif.gif">
 <h2 align="center">Hi 👋, I'm Shiven Singh</h2>
-<h3 align="center">A Passionate Computer Science Student from India</h3>
+<h3 align="center">A Passionate Computer Science Student from India. Currently, based in Dublin, Ireland </h3>
 <img align="centre" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/106600/screenshots/2156764/firefly2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitshiven&label=Profile%20views&color=0e75b6&style=flat" alt="gitshiven" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amshiven" target="blank"><img src="https://img.shields.io/twitter/follow/amshiven?logo=twitter&style=for-the-badge" alt="amshiven" /></a> </p>
 
-- 🔭 I’m currently working on **Classification model to predict the sentiment either(1 or 0) based on Amazon Alexa reviews**
+- 🔭 Data And Computational Science Student at University College Dublin**
 
 - 🌱 **ML, DSA, Full Stack**
 
