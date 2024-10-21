@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amshiven" target="blank"><img src="https://img.shields.io/twitter/follow/amshiven?logo=twitter&style=for-the-badge" alt="amshiven" /></a> </p>
 
-- 🔭 Data And Computational Science Student at University College Dublin**
+- 🔭 Data And Computational Science Student at **University College Dublin**
 
 - 🌱 **ML, DSA, Full Stack**
 
