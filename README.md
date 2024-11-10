@@ -1,6 +1,8 @@
 <img align="centre" width="1000" alt="Coder" src="https://cdn.dribbble.com/users/3016466/screenshots/6812171/on-off-gif.gif">
 <h2 align="center">Hi 👋, I'm Shiven Singh</h2>
-<h3 align="center">A Passionate Computer Science Student from India. Currently, based in Dublin, Ireland </h3>
+<h1 align="center" style="color: #4CAF50; font-family: 'Arial', sans-serif; font-size: 2em;">🌟 A Passionate Computer Science Student from India 🌟</h1>
+<h3 align="center" style="color: #009688; font-family: 'Georgia', serif;">Currently based in Dublin, Ireland</h3>
+
 <img align="centre" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/106600/screenshots/2156764/firefly2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitshiven&label=Profile%20views&color=0e75b6&style=flat" alt="gitshiven" /> </p>
