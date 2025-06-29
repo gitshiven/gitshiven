@@ -1,6 +1,6 @@
 <img align="centre" width="1000" alt="Coder" src="https://www.cogentassociates.ie/wp-content/uploads/2023/03/South-West-scaled.jpg">
 <h2 align="center">Hi 👋, I'm Shiven Singh</h2>
-<h1 align="center" style="color: #4CAF50; font-family: 'Arial', sans-serif; font-size: 2em;">🌟 A Passionate Computer Science Student from India 🌟</h1>
+<h1 align="center" style="color: #4CAF50; font-family: 'Arial', sans-serif; font-size: 2em;">🌟Computer Science Student from India 🌟</h1>
 <h3 align="center" style="color: #009688; font-family: 'Georgia', serif;">Currently based in Dublin, Ireland</h3>
 
 <img align="centre" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
