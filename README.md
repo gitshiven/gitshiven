@@ -1,22 +1,22 @@
-<img align="centre" width="1000" alt="Coder" src="https://www.cogentassociates.ie/wp-content/uploads/2023/03/South-West-scaled.jpg">
-<h2 align="center">Hi 👋, I'm Shiven Singh</h2>
-<h1 align="center" style="color: #4CAF50; font-family: 'Arial', sans-serif; font-size: 2em;">🌟Pursuing MS in Data And Computational Science from UCD🌟</h1>
-<h3 align="center" style="color: #009688; font-family: 'Georgia', serif;">Currently based in Dublin, Ireland</h3>
+# Hi, I'm Shiven Singh 👋
 
-<img align="centre" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+🎓 MS in Data & Computational Science @ University College Dublin  
+💼 Student Ambassador @ Skippio  
+📍 Based in Dublin, Ireland  
+🛠️ Currently building: **Live Dashboard for Venue Companies**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitshiven&label=Profile%20views&color=0e75b6&style=flat" alt="gitshiven" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitshiven" alt="gitshiven" /></a> </p>
+## 🚀 Tech & Tools
 
-<p align="left"> <a href="https://twitter.com/amshiven" target="blank"><img src="https://img.shields.io/twitter/follow/amshiven?logo=twitter&style=for-the-badge" alt="amshiven" /></a> </p>
+![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-- 🔭 Data And Computational Science Student at **University College Dublin**
-
-- 🌱 **ML, DSA, Full Stack**
-
-- 📫 How to reach me **ss.shiven44@gmail.com**
-
+---
 - ⚡ Fun fact **3000 hours+ on FIFA**
 
 <h3 align="left">Connect with me:</h3>
