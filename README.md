@@ -73,3 +73,21 @@ Collaborative filtering model using pandas, NumPy, scikit-learn & Kaggle data.
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" /></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" /></a>
 </p>
+
+---
+
+## 🧠 Currently Learning
+
+- **Web Development**  
+  Building full-stack apps using React, Tailwind, FastAPI, and PostgreSQL  
+
+- **Hugging Face & Transformers**  
+  Working with `transformers` and `datasets` to fine-tune LLMs 
+
+- **OpenCV & Computer Vision**  
+  Using Python and OpenCV for image processing and detection tasks 
+
+- **Benchmarking MLLMs**  
+  Evaluating multimodal models like BLIP-2, OFA, and MiniGPT on vision+text tasks  
+
+
