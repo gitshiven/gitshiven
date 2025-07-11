@@ -1,15 +1,12 @@
 # Hi, I'm Shiven Singh 👋
 
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3DC7A4&width=500&lines=Looking+for+work+in+Data+Science;Working+on+MLLM's;Love+Coding+%26+Problem+Solving" alt="Typing SVG" />
-
-
-
 🎓 MS in Data & Computational Science @ University College Dublin  
 💼 Student Ambassador @ Skippio (Part-Time)  
 📍 Based in Dublin, Ireland  
 🛠️ Currently building: **Live Heatmap Dashboard for Venue Companies**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F97316&center=false&vCenter=true&width=600&lines=Welcome+to+my+GitHub+—+the+place+where+I+design,+debug,+and+deploy+ideas+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F97316&center=false&vCenter=true&width=600&lines=Welcome+to+my+GitHub+the+place+where+I+design,+debug,+and+deploy+ideas+🚀" alt="Typing SVG" />
 
 
 ---
