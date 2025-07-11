@@ -1,9 +1,9 @@
 # Hi, I'm Shiven Singh 👋
 
 🎓 MS in Data & Computational Science @ University College Dublin  
-💼 Student Ambassador @ Skippio  
+💼 Data Scientist @ Orcawise | Student Ambassador @ Skippio  
 📍 Based in Dublin, Ireland  
-🛠️ Currently building: **Live Dashboard for Venue Companies**
+🛠️ Currently building: **Live Heatmap Dashboard for Skippio**
 
 ---
 
@@ -15,9 +15,36 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 
 ---
-- ⚡ Fun fact **3000 hours+ on FIFA**
+
+## 📌 Pinned Projects
+
+[Live Heatmap Dashboard (WIP)](https://github.com/gitshiven/skippio-dashboard)  
+Visual analytics for real-time venue tracking. React + FastAPI + PostgreSQL.
+
+[STAT40810 & STAT40830 UCD Assignments](https://github.com/gitshiven/data-analysis-ucd)  
+Advanced statistical computing using R and Quarto.
+
+[MLLMS Benchmarking](https://github.com/nikunjdrolia/MLLMS_Vision)  
+Final year research project comparing large vision models.
+
+---
+
+## 📫 Reach Out
+
+- [LinkedIn](https://linkedin.com/in/shivensingh06)
+- [Twitter/X](https://twitter.com/amshiven)
+- [Resume](https://your-resume-link.com) *(Update this)*
+- Email: shivensingh06@gmail.com
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gitshiven&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitshiven&layout=compact&theme=tokyonight)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
