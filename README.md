@@ -10,7 +10,7 @@
 🛠️ Currently building: **Live Heatmap Dashboard for Venue Companies**
 
 ## 🚀 Tech & Tools
----
+
 
 ![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -21,7 +21,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 
 ## 📌 Pinned Projects
----
+
 
 **[Live Heatmap Dashboard (WIP)](Working)**  
 Real-time venue analytics using React + FastAPI + PostgreSQL.
@@ -36,12 +36,11 @@ Decentralised KYC verification using Solidity smart contracts.
 Collaborative filtering model using pandas, NumPy, scikit-learn & Kaggle data.
 
 ## 📄 Research Papers Published
----
+
 
 [Published Research Paper Links →](https://github.com/gitshiven/Published-Research-Paper-Links
 
 ## 🌐 Connect with me
----
 
 <p align="left">
   <a href="https://twitter.com/amshiven" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" /></a>
@@ -53,7 +52,7 @@ Collaborative filtering model using pandas, NumPy, scikit-learn & Kaggle data.
 </p>
 
 ## 🛠 Languages & Tools
----
+
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" /></a>
@@ -69,7 +68,7 @@ Collaborative filtering model using pandas, NumPy, scikit-learn & Kaggle data.
 </p>
 
 ## 🧠 Currently Learning
----
+
 - **Web Development**  
   Building full-stack apps using React, Tailwind, FastAPI, and PostgreSQL  
 
