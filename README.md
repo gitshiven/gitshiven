@@ -38,7 +38,7 @@ Collaborative filtering model using pandas, NumPy, scikit-learn & Kaggle data.
 ## 📄 Research Papers Published
 
 
-[Published Research Paper Links →](https://github.com/gitshiven/Published-Research-Paper-Links
+[Published Research Paper Links →](https://github.com/gitshiven/Published-Research-Paper-Links)
 
 ## 🌐 Connect with me
 
