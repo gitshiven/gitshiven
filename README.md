@@ -1,4 +1,5 @@
-# Hi, I'm Shiven, Welcome to my GitHub — the place where I design, debug, and deploy idea 🚀
+# Hi, I'm Shiven, 
+Welcome to my GitHub — the place where I design, debug, and deploy idea 🚀
 
 🎓 MS in Data & Computational Science @ University College Dublin  
 💼 Student Ambassador @ Skippio (Part-Time)  
