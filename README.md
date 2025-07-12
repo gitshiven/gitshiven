@@ -7,7 +7,7 @@
 🎓 MS in Data & Computational Science @ University College Dublin  
 💼 Student Ambassador @ Skippio (Part-Time)  
 📍 Based in Dublin, Ireland  
-🛠️ Currently building: **Live Heatmap Dashboard for Venue Companies**
+🛠️ Currently building: **Live Heatmap Dashboard for Venue Companies(B2B)**
 
 ## 🚀 Tech & Tools
 
@@ -23,7 +23,7 @@
 ## 📌 Pinned Projects
 
 
-**[Live Heatmap Dashboard (WIP)](Working)**  
+**[Live Heatmap Dashboard (WIP)](https://github.com/gitshiven/b2b-dashboard.git)**  
 Real-time venue analytics using React + FastAPI + PostgreSQL.
 
 **[MLLMS Benchmarking](https://github.com/nikunjdrolia/MLLMS_Vision) (Working)**  
