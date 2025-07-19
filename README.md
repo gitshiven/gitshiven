@@ -7,7 +7,7 @@
 🎓 MS in Data & Computational Science @ University College Dublin  
 💼 Student Ambassador @ Skippio (Part-Time)  
 📍 Based in Dublin, Ireland  
-🛠️ Currently building: **Live Heatmap Dashboard for Venue Companies(B2B)**
+🛠️ Currently building: **Patient Booking Full Stack App for Ek Dant Dental Care**
 
 ## 🚀 Tech & Tools
 
