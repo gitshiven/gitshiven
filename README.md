@@ -70,7 +70,7 @@ Collaborative filtering model using pandas, NumPy, scikit-learn & Kaggle data.
 ## 🧠 Currently Learning
 
 - **Web Development**  
-  Building full-stack apps using React, Tailwind, FastAPI, and PostgreSQL  
+  Building full-stack apps using React, Tailwind, Mongodb and PostgreSQL  
 
 - **Hugging Face & Transformers**  
   Working with `transformers` and `datasets` to fine-tune LLMs 
