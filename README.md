@@ -30,8 +30,11 @@ Real-time venue analytics using React + FastAPI + PostgreSQL.
 Final year research project comparing modern vision-based large language models.
 
 **[Patient Booking Full Stack App for Ek Dant Dental Care](https://github.com/gitshiven/Ekdant-Dental-Booking-Web-App)**
+A web app designed for Dr. Raj Rani’s clinic to simplify patient bookings and help the receptionist manage appointments efficiently using React (with React Router)+
+Axios for API calls + React Toastify for alerts + Mongodb
 
 **[Converter Assistant](https://github.com/gitshiven/CurrencyConverter)**
+Flutter + Dart + Firbase + Exchangerate API
 
 **[KYC Using Smart Contract Over Blockchain](Updating the github Link)**  
 Decentralised KYC verification using Solidity smart contracts.
