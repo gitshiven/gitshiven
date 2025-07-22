@@ -29,6 +29,10 @@ Real-time venue analytics using React + FastAPI + PostgreSQL.
 **[MLLMS Benchmarking](https://github.com/nikunjdrolia/MLLMS_Vision) (Working)**  
 Final year research project comparing modern vision-based large language models.
 
+**[Patient Booking Full Stack App for Ek Dant Dental Care](https://github.com/gitshiven/Ekdant-Dental-Booking-Web-App)**
+
+**[Converter Assistant](https://github.com/gitshiven/CurrencyConverter)**
+
 **[KYC Using Smart Contract Over Blockchain](Updating the github Link)**  
 Decentralised KYC verification using Solidity smart contracts.
 
