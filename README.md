@@ -7,7 +7,7 @@
 🎓 MS in Data & Computational Science @ University College Dublin  
 💼 Student Ambassador @ Skippio (Part-Time)  
 📍 Based in Dublin, Ireland  
-🛠️ Currently building: **Patient Booking Full Stack App for Ek Dant Dental Care**
+🛠️ Currently working on publishing: **VISBENCH-3: Benchmarking MLLMs on Fine-Grained Visual Reasoning Tasks**
 
 ## 🚀 Tech & Tools
 
