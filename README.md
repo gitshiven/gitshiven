@@ -22,12 +22,11 @@
 
 ## 📌 Pinned Projects
 
+**[VisBench-3](https://github.com/gitshiven/project-mllms_vision)**  
+Research project comparing modern vision-based MLLMS on self-curated datasets
 
 **[Live Heatmap Dashboard (WIP)](https://github.com/gitshiven/b2b-dashboard.git)**  
 Real-time venue analytics using React + FastAPI + PostgreSQL.
-
-**[MLLMS Benchmarking](https://github.com/nikunjdrolia/MLLMS_Vision) (Working)**  
-Final year research project comparing modern vision-based large language models.
 
 **[Patient Booking Full Stack App for Ek Dant Dental Care](https://github.com/gitshiven/Ekdant-Dental-Booking-Web-App)**
 A web app designed for Dr. Raj Rani’s clinic to simplify patient bookings and help the receptionist manage appointments efficiently using React (with React Router)+
