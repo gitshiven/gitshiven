@@ -5,7 +5,7 @@
 <br clear="left">
 
 🎓 MS in Data & Computational Science @ University College Dublin  
-💼 Student Ambassador @ Skippio (Part-Time)  
+💼 Intern @ ALPACA
 📍 Based in Dublin, Ireland  
 🛠️ Currently working on publishing: **VISBENCH-3: Benchmarking MLLMs on Fine-Grained Visual Reasoning Tasks**
 
