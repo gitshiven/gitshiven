@@ -22,7 +22,7 @@
 
 ## 📌 Pinned Projects
 
-**[Soundchain](https://github.com/gitshiven/soundchain)**  **Ready by 5th may**
+**[Soundchain](https://github.com/gitshiven/soundchain)**  [**Ready by 5th may**]
 A decentralized music collaboration platform on Solana where composers post challenges, producers compete with remixes, and ownership + royalties are automatically split on-chain.
 
 **[VisBench-3](https://github.com/gitshiven/project-mllms_vision)**  
