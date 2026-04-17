@@ -4,7 +4,7 @@
 
 <br clear="left">
 
-🎓 MS in Data & Computational Science @ University College Dublin  
+🎓 MS @ University College Dublin  
 💼 Intern @ ALPACA
 📍 Based in Dublin, Ireland  
 🛠️ Currently working on: **SOUNDCHAIN**
