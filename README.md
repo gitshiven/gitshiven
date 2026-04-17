@@ -7,7 +7,7 @@
 🎓 MS in Data & Computational Science @ University College Dublin  
 💼 Intern @ ALPACA
 📍 Based in Dublin, Ireland  
-🛠️ Currently working on publishing: **VISBENCH-3: Benchmarking MLLMs on Fine-Grained Visual Reasoning Tasks**
+🛠️ Currently working on: **SOUNDCHAIN**
 
 ## 🚀 Tech & Tools
 
@@ -21,6 +21,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 
 ## 📌 Pinned Projects
+
+**[Soundchain](https://github.com/gitshiven/soundchain)**  
+A decentralized music collaboration platform on Solana where composers post challenges, producers compete with remixes, and ownership + royalties are automatically split on-chain.
 
 **[VisBench-3](https://github.com/gitshiven/project-mllms_vision)**  
 Research project comparing modern vision-based MLLMS on self-curated datasets
