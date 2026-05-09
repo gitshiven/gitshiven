@@ -5,9 +5,9 @@
 <br clear="left">
 
 🎓 MS @ University College Dublin  
-💼 Intern @ ALPACA
+💼 Ex-Intern @ ALPACA
 📍 Based in Dublin, Ireland  
-🛠️ Currently working on: **SOUNDCHAIN**
+🛠️ Recently shipped: **SOUNDCHAIN**
 
 ## 🚀 Tech & Tools
 
