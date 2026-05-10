@@ -1,4 +1,4 @@
-# Hi, I'm Shiven Singh 👋
+# Hi, I'm Shiven Singh, or some people know me as Fifa Mafia
 
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3DC7A4&width=500&lines=Exploring+Opportunities;Working+on+MLLM's;Love+Coding+%26+Problem+Solving" alt="Typing SVG" />
 
