@@ -34,7 +34,7 @@
 ## 📌 Pinned Projects
 
 **[Bureaucracy-destroyer](https://bureaucracy-destroyer.vercel.app/)**
- Agentic AI Document Understanding System for Immigrants in Ireland
+ Agentic AI Document Understanding System for Immigrants in Ireland.
 
 **[Soundchain](https://soundchain-iota.vercel.app/)**
 A decentralized music collaboration platform on Solana where composers post challenges, producers compete with remixes, and ownership + royalties are automatically split on-chain.
