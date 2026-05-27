@@ -7,7 +7,7 @@
 🎓 MS @ University College Dublin  
 💼 Ex-Intern @ ALPACA
 📍 Based in Dublin, Ireland  
-🛠️ Recently shipped: **Bureaucracy-destroyer**
+🛠️ Working on: **LoopDesk**
 
 ## 🚀 Tech & Tools
 
