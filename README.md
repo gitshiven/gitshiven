@@ -33,6 +33,9 @@
 
 ## 📌 Pinned Projects
 
+**[LoopDesk] (https://loop-desk.vercel.app/)**
+Production-grade multi-agent support triage system that classifies, routes, and auto-resolves customer support tickets. What makes it different: it gets smarter every time a human corrects it, no retraining, no fine-tuning.
+
 **[Bureaucracy-destroyer](https://bureaucracy-destroyer.vercel.app/)**
  Agentic AI Document Understanding System for Immigrants in Ireland.
 
