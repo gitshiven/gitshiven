@@ -33,6 +33,9 @@
 
 ## 📌 Pinned Projects
 
+**[VOIC Dashboard - Voice of the Irish Consumer](voic-dashboard.vercel.app)**
+A data analytics project that researches, structures, and visualises what Irish consumers actually complain about when it comes to their banks and telecoms. Built end-to-end: from raw unstructured review text to a live interactive dashboard.
+
 **[LoopDesk](https://loop-desk.vercel.app/)**
 Production-grade multi-agent support triage system that classifies, routes, and auto-resolves customer support tickets. What makes it different: it gets smarter every time a human corrects it, no retraining, no fine-tuning.
 
