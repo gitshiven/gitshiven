@@ -33,7 +33,7 @@
 
 ## 📌 Pinned Projects
 
-**[VOIC Dashboard - Voice of the Irish Consumer](voic-dashboard.vercel.app/)**
+**[VOIC Dashboard - Voice of the Irish Consumer](https://voic-dashboard.vercel.app/)**
 A data analytics project that researches, structures, and visualises what Irish consumers actually complain about when it comes to their banks and telecoms. Built end-to-end: from raw unstructured review text to a live interactive dashboard.
 
 **[LoopDesk](https://loop-desk.vercel.app/)**
