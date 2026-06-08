@@ -33,7 +33,7 @@
 
 ## 📌 Pinned Projects
 
-**[Ireland Wealth map - Where Money Lives](ireland-wealth-map.vercel.app)**
+**[Ireland Wealth map - Where Money Lives](https://ireland-wealth-map.vercel.app/)**
 786,907 residential property transactions from 2010 to 2024 were processed through a custom Python pipeline to produce a composite Affluence Index for every Irish county and 827 Eircode districts. The dashboard lets you explore where money lives in Ireland — which counties are growing fastest, where inequality is highest, and which districts are emerging from a low baseline.
 
 **[VOIC Dashboard - Voice of the Irish Consumer](https://voic-dashboard.vercel.app/)**
