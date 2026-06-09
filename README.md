@@ -7,7 +7,7 @@
 🎓 MS @ University College Dublin  
 💼 Ex-Intern @ ALPACA
 📍 Based in Dublin, Ireland  
-🛠️ Working on: **LoopDesk**
+🛠️ Working on: **VOIC Dashboard**
 
 ## 🚀 Tech & Tools
 
