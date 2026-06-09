@@ -61,7 +61,7 @@ A web app designed for Dr. Raj Rani’s clinic to simplify patient bookings and 
 Axios for API calls + React Toastify for alerts + Mongodb
 
 **[Currency Assistant](https://github.com/gitshiven/CurrencyConverter)**
-Flutter + Dart + Firbase + Exchangerate API
+Flutter + Dart + Firebase + Exchangerate API
 
 **[KYC Using Smart Contract Over Blockchain](Updating the github Link)**  
 Decentralised KYC verification using Solidity smart contracts.
