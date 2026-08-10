@@ -7,7 +7,7 @@
 🎓 MS @ University College Dublin  
 💼 Ex-Intern @ ALPACA
 📍 Based in Dublin, Ireland  
-🛠️ Working on: **VOIC Dashboard**
+🛠️ Website: **[shiven.info](https://shiven.info/)**
 
 ## 🚀 Tech & Tools
 
